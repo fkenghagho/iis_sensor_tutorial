@@ -12,5 +12,9 @@ foo@bar:~$ cd iis_sensor_tutorial
 ```console
 foo@bar:~/iis_sensor_tutorial$ jupyter-server
 ```
-
+4. open the browser and type the following link into the bar address
+```console
+http://localhost:8888/notebooks/Sensor.ipynb
+```
+5. start working
 
